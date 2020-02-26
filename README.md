@@ -4,7 +4,7 @@
 
 Official figures on rough sleeping in England currently only record the numbers counted or estimated to be sleeping out on a single night.
 
-Ahead of the release of the latest figures, we sent FOI requests to every council in the UK responsible for housing and asked how many individuals they recorded sleeping rough over an entire year.
+Ahead of the release of the latest figures, we sent [FOI requests](https://github.com/BBC-Data-Unit/homelessness-real-figure/blob/master/foirequest.md) to every council in the UK responsible for housing and asked how many individuals they recorded sleeping rough over an entire year.
 
 In February 2020 we [reported](https://www.bbc.co.uk/news/uk-england-51398425) on the results.
 
