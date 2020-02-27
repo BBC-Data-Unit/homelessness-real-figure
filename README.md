@@ -16,6 +16,8 @@ The figures do not contradict the government’s single night snapshot, but they
 
 The homelessness charity Crisis has called for better recording to show the true scale of the problem of rough sleeping.
 
+The BBC's figures were used in reporting on official homelessness statistics later that week [by The Guardian](https://www.theguardian.com/society/2020/feb/27/questions-raised-as-england-rough-sleeping-figures-show-9-fall) and [by Birmingham Live](https://www.birminghammail.co.uk/news/midlands-news/how-many-homeless-people-were-17819289). 
+
 ## Get the data
 
 * XLS: [Rough sleeping data provided in responses to FOI requests](https://github.com/BBC-Data-Unit/homelessness-real-figure/blob/master/BBC%20Rough%20sleeping%20FOI%20analysis.xlsx)
